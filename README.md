@@ -2,7 +2,7 @@
 Pong that uses the horizontal and vertical scrollbars as paddles.
 
 ## Just want to play?
-It's live at http://maxcutlyp.com/webapps/ScrollbarPong/.
+It's live at http://maxcutlyp.com/games/ScrollbarPong/.
 
 ## Set up locally
 1. Make sure you have TypeScript installed.
